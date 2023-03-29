@@ -53,7 +53,7 @@ app.layout = html.Div(children=[
                                 html.Div([html.Div([
                                 html.H2(id = "sum_sales"),
                                 html.H2(id = "sum_orders")
-                                ])], style={'position': 'absolute', 'top': 650, 'right': 300}),
+                                ])], style={'position': 'absolute', 'top': 650, 'right': 200}),
 
 
                                # dcc.Graph(id="fig_spp", style={"width": "40%", "justify-content": "right"}),
